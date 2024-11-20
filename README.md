@@ -56,6 +56,7 @@ Data modeling is a fundamental step in the analytics process. It involves struct
 
 In this project, the **Snowflake schema** was employed, which is a normalized method of organizing data that helps reduce redundancy and improve query performance.
 
+![data model](https://github.com/Akashsingh1916/Business-Insights-360/assets/146354971/2285afcc-e8f4-4b94-abae-ea1d89e6cba9)
 ---
 
 ## **Power BI Dashboard Overview**
