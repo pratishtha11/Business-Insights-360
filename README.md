@@ -6,7 +6,7 @@
 
 Despite its impressive growth, the company experienced unexpected losses after opening a store in the United States. These setbacks were initially identified through basic surveys, intuition, and rudimentary Excel analysis. As its competitors leveraged advanced analytics teams, AtliQ recognized the importance of improving its own data analytics capabilities.
 
-To address this, **AtliQ Hardware** decided to implement **Power BI** to support decision-making through data-driven insights across multiple business functions, such as **finance**, **sales**, **marketing**, and **supply chain**.
+To address this, **AtliQ Hardware** decided to implement **Power BI** to support decision-making through data-driven insights across multiple business functions, such as **finance**, **sales**, **marketing**, **supply chain** and  **Executive**.
 
 In this project, I followed the **Codebasics Power BI Course** to learn Power BI fundamentals and apply them to real-world business data.
 
