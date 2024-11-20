@@ -66,42 +66,43 @@ The Power BI dashboard created for this project consists of **six main pages**, 
 - This is the starting point for the dashboard, with buttons that allow users to navigate to other pages.
 - **Purpose**: Centralized access to the various business insights available.
 
-![Home Page](images/home_page.png)
+
+![Home Page](Home%20Page.png "Home Page View")
 
 ### **2. Finance Page**
 - This page provides insights into **financial planning**, **budgeting**, and **cost control**. It includes key financial metrics like:
   - **Profit & Loss Statements**: A summary of revenues, costs, and profits.
   - **Top and Bottom Products/Customers by Net Sales**: Identifies which products and customers contribute the most to the revenue.
 
-![Finance Page](images/finance_page.png)
+![Finance View](Finance%20View.png "Finance View Page")
 
 ### **3. Sales Page**
 - This page helps to identify strategies for increasing **sales revenue** and expanding market share. Key metrics include:
   - **Customer Performance by Net Sales**: Tracks customer sales trends.
   - **Gross Margin and Gross Margin %**: Measures the profitability of products sold.
 
-![Sales Page](images/sales_page.png)
+![Sales View](Sales%20Customer%20View.png "Sales View Page")
+![Sales View](Sales%20Product%20View.png "Sales View Page")
 
 ### **4. Marketing Page**
 - The Marketing page focuses on improving **brand visibility** and **customer engagement**. Key insights include:
   - **Segment Performance by Gross Margin % and Net Profit %**: Analyzes the effectiveness of marketing efforts across different customer segments.
 
-![Marketing Page](images/marketing_page.png)
+![Market View](Market%20Page.png "Market View Page")
 
 ### **5. Supply Chain Page**
 - This page is geared towards optimizing **inventory management** and improving supplier relationships. Metrics on this page include:
   - **Forecast Accuracy**: Measures how well forecasts match actual sales.
   - **Net Error**: Tracks forecasting errors to improve future predictions.
 
-![Supply Chain Page](images/supply_chain_page.png)
-
+![Supply Chain View](Supply%20Chain%20View.png "Supply Chain View Page")
 ### **6. Executive Page**
 - This page is intended for high-level stakeholders, providing an overall view of company performance. Key metrics include:
   - **Net Sales**, **Gross Margin %**, **Net Profit %**
   - **Revenue Contribution by Channel**: Identifies which sales channels (retailers, direct, distributors) are performing best.
   - **Top 5 Customers/Products**: Lists the top-performing customers and products.
 
-![Executive Page](images/executive_page.png)
+![Executive View](Executive%20View%20Page.png "Executive View Page")
 
 ---
 
